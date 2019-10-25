@@ -1,0 +1,1 @@
+This program stores teachers and students informationand presents them in a GUI using the New_GUI file. It was used to teach myself about the structure of classes and object oriented programming.
