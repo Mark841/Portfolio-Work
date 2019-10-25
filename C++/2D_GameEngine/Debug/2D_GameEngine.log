@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Dev\2D_GameEngine - Textures\Src\Game.cpp(141,66): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\2D_GameEngine - Textures\Src\Game.cpp(142,66): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  2D_GameEngine.vcxproj -> C:\Dev\2D_GameEngine - Textures\Debug\2D_GameEngine.exe
