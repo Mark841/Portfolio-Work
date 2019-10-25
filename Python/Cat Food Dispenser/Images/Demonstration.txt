@@ -1,0 +1,1 @@
+The video just tests if the motor is strong enough to open the door before being attached to the Raspberry Pi
