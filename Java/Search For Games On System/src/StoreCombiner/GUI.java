@@ -116,7 +116,7 @@ public class GUI {
     	// Creates the buttons that will be placed in the window
     	JButton list = new JButton("List games on system");
     	JButton stores = new JButton("Open stores");
-    	JButton recent = new JButton("Open last played game");
+    	JButton recent = new JButton("Open last played game: " + file.getLastPlayedGame());
     	JButton search = new JButton("Search for a game on stores");
     	search.setFont(FONT);
     	stores.setFont(FONT);
