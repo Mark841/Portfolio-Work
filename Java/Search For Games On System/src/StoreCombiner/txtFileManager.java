@@ -209,13 +209,12 @@ public class txtFileManager {
 			file.write("\n\n");
 			// The folder locations for each library
 			for (int j=0; j<driveAmount; j++) {
-				/*if (discOnDrive[j][0]) {
+				if (discOnDrive[j][0]) {
 					file.write((foldersOnDrive[j]+1) + ",\n");
 				}
 				else {
 					file.write(foldersOnDrive[j] + ",\n");
-				}*/
-				file.write(foldersOnDrive[j] + ",\n");
+				}
 				if (folderOnDrive[j][0]) {
 					file.write("Steam," + folderLocations[j][0] + ",\n");
 				}
