@@ -11,4 +11,10 @@ understanding of the language and how to implement key concepts. To further my k
 contains lots of classes and functions that can be used to help create games (SDL2). I followed tutorials on how to use this library, 
 create 2D pixel art and animations and also a tutorial on how to create a tilemap that can be used by the game to create the map.
 
-This project is still a work in progress, it is just moving slower now as I have started a new semester at university
+This project is still a work in progress, it is just moving slower now as I have started a new semester at university.
+
+
+
+When I finish this project I intend to develop a new game but in a different genre, this will try and prevent having many 
+similarities between the code. This will allow me to adapt my knowledge and the skills I have learnt from the tutorials to become 
+more competent with C++ and also deepen my knowledge and understanding of how to create a game.
