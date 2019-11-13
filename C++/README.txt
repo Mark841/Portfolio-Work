@@ -11,7 +11,8 @@ understanding of the language and how to implement key concepts. To further my k
 contains lots of classes and functions that can be used to help create games (SDL2). I followed tutorials on how to use this library, 
 create 2D pixel art and animations and also a tutorial on how to create a tilemap that can be used by the game to create the map.
 
-This project is still a work in progress, it is just moving slower now as I have started a new semester at university.
+This project is still a work in progress, it is just moving slower now as I have started a new semester at university. The game
+running so far can be seen in the "Game Running Videos" folder where there are screen recordings of the game running.
 
 
 
